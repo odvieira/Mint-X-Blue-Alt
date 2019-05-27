@@ -316,7 +316,7 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .panel-dummy:entered {
-    background-color: rgba(91, 115, 196, 0.9);
+    background-color: rgba(49, 91, 239, 0.9);
 }
 
 #panelLeft,
@@ -2089,13 +2089,13 @@ StScrollBar StButton#vhandle:hover {
  * ===================================================================*/
 .tile-preview,
 .tile-hud {
-    background-color: rgba(91, 115, 196, 0.4);
-    border: 1px solid rgba(91, 115, 196, 0.8);
+    background-color: rgba(49, 91, 239, 0.4);
+    border: 1px solid rgba(49, 91, 239, 0.8);
 }
 
 .tile-preview.snap,
 .tile-hud.snap {
-    background-color: rgba(91, 115, 196, 0.8);
+    background-color: rgba(49, 91, 239, 0.8);
 }
 
 .tile-hud:top {
